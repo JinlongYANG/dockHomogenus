@@ -1,0 +1,7 @@
+README.md
+setup.py
+homogenus.egg-info/PKG-INFO
+homogenus.egg-info/SOURCES.txt
+homogenus.egg-info/dependency_links.txt
+homogenus.egg-info/requires.txt
+homogenus.egg-info/top_level.txt
